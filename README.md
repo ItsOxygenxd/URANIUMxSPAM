@@ -1,1 +1,1 @@
-https://github.com/Itsoxygenxd/URANIUMxSPAM/URANIUM.py
+https://dashboard.heroku.com/new-app?template=https://github.com/amanjhaop/URANIUMxSPAM
